@@ -27,6 +27,10 @@ WhateverGreen
 #### Documentation
 Read [FAQs](https://github.com/acidanthera/WhateverGreen/blob/master/Manual/) and avoid asking any questions. No support is provided for the time being.
 
+#### Installation 
+The prebuilt binaries are available on [releases](https://github.com/vit9696/WhateverGreen/releases) page.
+
+
 #### Boot arguments
 - `-wegdbg` to enable debug printing (available in DEBUG binaries).
 - `-wegoff` to disable WhateverGreen.
